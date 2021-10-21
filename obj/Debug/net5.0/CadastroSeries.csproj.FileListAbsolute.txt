@@ -1,0 +1,5 @@
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\CadastroSeries.csproj.AssemblyReference.cache
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\CadastroSeries.AssemblyInfoInputs.cache
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\CadastroSeries.AssemblyInfo.cs
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\CadastroSeries.csproj.CoreCompileInputs.cache
