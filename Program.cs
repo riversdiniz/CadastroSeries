@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Professor: Eliézer Zarpelão
+//digital innovation ONE
+//https://github.com/elizarp
+
+using System;
 
 namespace CadastroSeries
 {
