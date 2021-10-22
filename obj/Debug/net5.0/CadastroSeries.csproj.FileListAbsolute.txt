@@ -3,3 +3,14 @@ C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.
 C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\CadastroSeries.AssemblyInfoInputs.cache
 C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\CadastroSeries.AssemblyInfo.cs
 C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\bin\Debug\net5.0\CadastroSeries.exe
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\bin\Debug\net5.0\CadastroSeries.deps.json
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\bin\Debug\net5.0\CadastroSeries.runtimeconfig.json
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\bin\Debug\net5.0\CadastroSeries.runtimeconfig.dev.json
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\bin\Debug\net5.0\CadastroSeries.dll
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\bin\Debug\net5.0\ref\CadastroSeries.dll
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\bin\Debug\net5.0\CadastroSeries.pdb
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\CadastroSeries.dll
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\ref\CadastroSeries.dll
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\CadastroSeries.pdb
+C:\Users\river.diniz\Desktop\Course_SharpTerminal\CadastroSeries\obj\Debug\net5.0\CadastroSeries.genruntimeconfig.cache
